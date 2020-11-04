@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listbox véletlenszám", "listbox véletlenszám.csproj", "{1754FF6E-9E7F-4644-8B39-5AEAA83E4DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1754FF6E-9E7F-4644-8B39-5AEAA83E4DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1754FF6E-9E7F-4644-8B39-5AEAA83E4DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1754FF6E-9E7F-4644-8B39-5AEAA83E4DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1754FF6E-9E7F-4644-8B39-5AEAA83E4DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65C340D-0FD4-4F33-A5E4-7A8E1FBDB8E4}
+	EndGlobalSection
+EndGlobal

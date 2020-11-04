@@ -1,0 +1,10 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\bin\Debug\listbox véletlenszám.exe.config
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\bin\Debug\listbox véletlenszám.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\bin\Debug\listbox véletlenszám.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox véletlenszám.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox_véletlenszám.Form1.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox_véletlenszám.Properties.Resources.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox véletlenszám.csproj.GenerateResource.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox véletlenszám.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox véletlenszám.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\WinFormApp\listbox véletlenszám\obj\Debug\listbox véletlenszám.pdb
