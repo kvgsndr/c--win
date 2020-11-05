@@ -41,9 +41,9 @@ namespace listbox_véletlenszám
         private void button2_Click(object sender, EventArgs e)
         {
             foreach (var item in listBox1.Items)
-            { int szam = Convert.ToInt32(item);
+            {   int szam = Convert.ToInt32(item);
                 bool prim = true;
-                for (int i = 2; i < szam/2 ; i++)
+                for (int i = 2; i <= szam/2 ; i++)
                 {
                     if(szam%i==0)
                     {

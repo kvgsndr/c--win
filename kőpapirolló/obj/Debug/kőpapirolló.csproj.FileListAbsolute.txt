@@ -1,0 +1,10 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\bin\Debug\kőpapirolló.exe.config
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\bin\Debug\kőpapirolló.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\bin\Debug\kőpapirolló.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.Form1.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.Properties.Resources.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.csproj.GenerateResource.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\kőpapirolló\obj\Debug\kőpapirolló.pdb
