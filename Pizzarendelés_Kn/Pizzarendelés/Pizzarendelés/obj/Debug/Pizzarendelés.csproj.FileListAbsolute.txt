@@ -18,3 +18,13 @@ C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnázi
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Új mappa\Órai munka\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.csproj.CoreCompileInputs.cache
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Új mappa\Órai munka\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.exe
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Asztal\Új mappa\Órai munka\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\bin\Debug\Pizzarendelés.exe.config
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\bin\Debug\Pizzarendelés.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\bin\Debug\Pizzarendelés.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.Form1.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.Properties.Resources.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.csproj.GenerateResource.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\Pizzarendelés_Kn\Pizzarendelés\Pizzarendelés\obj\Debug\Pizzarendelés.pdb

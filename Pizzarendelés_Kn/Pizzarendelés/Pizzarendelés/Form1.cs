@@ -29,25 +29,23 @@ namespace Pizzarendelés
             {
                 int darab = int.Parse(textBox1.Text);
                 bolognai = 1200 * darab;
-
             }
             if (checkBox2.Checked)
             {
                 
                 int darab1 = int.Parse(textBox2.Text);
                 carbonara = darab1 * 1300;
-
             }
             if (checkBox3.Checked)
             {
                 
                 int darab2 = int.Parse(textBox3.Text);                
                 hawaii = darab2 * 1350;
-
             }
             int összeg = hawaii + carbonara + bolognai;
+            //int összeg=darab*1200 + darab1*1300 +darab2*1350;
 
-            label6.Text =összeg.ToString()+" "+ nev;
+            label6.Text =összeg.ToString()+" ft "+ nev;
 
         }
 
@@ -90,6 +88,12 @@ namespace Pizzarendelés
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void checkBox1_Click(object sender, EventArgs e)
+        {
+            textBox1.Focus();
+            textBox1.SelectAll();
         }
     }
 }

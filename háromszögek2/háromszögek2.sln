@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "háromszögek2", "háromszögek2.csproj", "{18ACD69E-BC6C-473A-85F2-2C2D62805985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ACD69E-BC6C-473A-85F2-2C2D62805985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ACD69E-BC6C-473A-85F2-2C2D62805985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ACD69E-BC6C-473A-85F2-2C2D62805985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ACD69E-BC6C-473A-85F2-2C2D62805985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C63DB2-A1DB-43AD-A653-56FEF6C22E9C}
+	EndGlobalSection
+EndGlobal

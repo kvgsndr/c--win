@@ -1,0 +1,10 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\bin\Debug\radiocheckgrouppanel.exe.config
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\bin\Debug\radiocheckgrouppanel.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\bin\Debug\radiocheckgrouppanel.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.Form1.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.Properties.Resources.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.csproj.GenerateResource.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\radiocheckgrouppanel\obj\Debug\radiocheckgrouppanel.pdb

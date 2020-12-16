@@ -1,0 +1,10 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\bin\Debug\szövegfeldolgozás.exe.config
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\bin\Debug\szövegfeldolgozás.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\bin\Debug\szövegfeldolgozás.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.Form1.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.Properties.Resources.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.csproj.GenerateResource.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\szövegfeldolgozás\obj\Debug\szövegfeldolgozás.pdb

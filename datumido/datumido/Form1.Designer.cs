@@ -34,9 +34,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(51, 55);
+            this.button1.Location = new System.Drawing.Point(38, 45);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(310, 42);
+            this.button1.Size = new System.Drawing.Size(232, 34);
             this.button1.TabIndex = 0;
             this.button1.Text = "Hány nap van karácsonyig?";
             this.button1.UseVisualStyleBackColor = true;
@@ -45,21 +46,23 @@
             // kiirLbl
             // 
             this.kiirLbl.AutoSize = true;
-            this.kiirLbl.Location = new System.Drawing.Point(48, 126);
+            this.kiirLbl.Location = new System.Drawing.Point(36, 102);
+            this.kiirLbl.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.kiirLbl.Name = "kiirLbl";
-            this.kiirLbl.Size = new System.Drawing.Size(46, 17);
+            this.kiirLbl.Size = new System.Drawing.Size(35, 13);
             this.kiirLbl.TabIndex = 1;
             this.kiirLbl.Text = "label1";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(331, 225);
             this.Controls.Add(this.kiirLbl);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Hány nap van karácsonyig?";
             this.ResumeLayout(false);
             this.PerformLayout();
 

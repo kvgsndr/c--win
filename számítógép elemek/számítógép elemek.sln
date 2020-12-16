@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "számítógép elemek", "számítógép elemek.csproj", "{73DF01E3-0EEF-416B-A5F2-77B8687981DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DF01E3-0EEF-416B-A5F2-77B8687981DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DF01E3-0EEF-416B-A5F2-77B8687981DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DF01E3-0EEF-416B-A5F2-77B8687981DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DF01E3-0EEF-416B-A5F2-77B8687981DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D168E1-10A8-45EF-A7C1-CF51AD9B744F}
+	EndGlobalSection
+EndGlobal

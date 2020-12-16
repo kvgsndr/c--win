@@ -54,7 +54,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(119, 58);
+            this.label1.Location = new System.Drawing.Point(36, 27);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(30, 13);
             this.label1.TabIndex = 0;
@@ -65,7 +65,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label2.ForeColor = System.Drawing.Color.Red;
-            this.label2.Location = new System.Drawing.Point(534, 40);
+            this.label2.Location = new System.Drawing.Point(480, 23);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(101, 13);
             this.label2.TabIndex = 1;
@@ -75,7 +75,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(113, 298);
+            this.label3.Location = new System.Drawing.Point(30, 267);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(109, 13);
             this.label3.TabIndex = 2;
@@ -86,7 +86,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label4.ForeColor = System.Drawing.Color.Red;
-            this.label4.Location = new System.Drawing.Point(122, 112);
+            this.label4.Location = new System.Drawing.Point(39, 81);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(62, 13);
             this.label4.TabIndex = 3;
@@ -97,7 +97,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label5.ForeColor = System.Drawing.Color.Red;
-            this.label5.Location = new System.Drawing.Point(266, 112);
+            this.label5.Location = new System.Drawing.Point(183, 81);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(69, 13);
             this.label5.TabIndex = 4;
@@ -107,19 +107,20 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.ForeColor = System.Drawing.Color.Red;
-            this.checkBox1.Location = new System.Drawing.Point(122, 158);
+            this.checkBox1.Location = new System.Drawing.Point(39, 127);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(112, 17);
             this.checkBox1.TabIndex = 5;
             this.checkBox1.Text = "Bolognai (1 200Ft)";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBox1.Click += new System.EventHandler(this.checkBox1_Click);
             // 
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
             this.checkBox2.ForeColor = System.Drawing.Color.Red;
-            this.checkBox2.Location = new System.Drawing.Point(122, 202);
+            this.checkBox2.Location = new System.Drawing.Point(39, 168);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(117, 17);
             this.checkBox2.TabIndex = 6;
@@ -130,7 +131,7 @@
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.ForeColor = System.Drawing.Color.Red;
-            this.checkBox3.Location = new System.Drawing.Point(122, 241);
+            this.checkBox3.Location = new System.Drawing.Point(39, 209);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(100, 17);
             this.checkBox3.TabIndex = 7;
@@ -139,31 +140,34 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(269, 158);
+            this.textBox1.Location = new System.Drawing.Point(186, 127);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 8;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBox1.Text = "0";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(269, 202);
+            this.textBox2.Location = new System.Drawing.Point(186, 168);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 9;
+            this.textBox2.Text = "0";
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(269, 241);
+            this.textBox3.Location = new System.Drawing.Point(186, 209);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 10;
+            this.textBox3.Text = "0";
             // 
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
+            this.radioButton1.Checked = true;
             this.radioButton1.ForeColor = System.Drawing.Color.Red;
-            this.radioButton1.Location = new System.Drawing.Point(486, 364);
+            this.radioButton1.Location = new System.Drawing.Point(415, 307);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(66, 17);
             this.radioButton1.TabIndex = 13;
@@ -176,7 +180,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.ForeColor = System.Drawing.Color.Red;
-            this.radioButton2.Location = new System.Drawing.Point(578, 364);
+            this.radioButton2.Location = new System.Drawing.Point(507, 307);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(74, 17);
             this.radioButton2.TabIndex = 14;
@@ -189,7 +193,7 @@
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.ForeColor = System.Drawing.Color.Red;
-            this.radioButton3.Location = new System.Drawing.Point(670, 364);
+            this.radioButton3.Location = new System.Drawing.Point(599, 307);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(57, 17);
             this.radioButton3.TabIndex = 15;
@@ -201,7 +205,7 @@
             // button1
             // 
             this.button1.ForeColor = System.Drawing.Color.Red;
-            this.button1.Location = new System.Drawing.Point(116, 385);
+            this.button1.Location = new System.Drawing.Point(45, 328);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(83, 23);
             this.button1.TabIndex = 16;
@@ -212,7 +216,7 @@
             // button2
             // 
             this.button2.ForeColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(269, 384);
+            this.button2.Location = new System.Drawing.Point(198, 327);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 23);
             this.button2.TabIndex = 17;
@@ -222,7 +226,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(269, 51);
+            this.textBox5.Location = new System.Drawing.Point(186, 20);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 20);
             this.textBox5.TabIndex = 18;
@@ -230,16 +234,18 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(266, 298);
+            this.label6.Location = new System.Drawing.Point(183, 267);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(0, 13);
             this.label6.TabIndex = 20;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(486, 96);
+            this.pictureBox1.Image = global::Pizzarendelés.Properties.Resources.bolognai;
+            this.pictureBox1.Location = new System.Drawing.Point(403, 65);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(236, 215);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
@@ -247,7 +253,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(703, 386);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.button2);

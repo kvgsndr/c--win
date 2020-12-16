@@ -20,14 +20,14 @@ namespace datumido
         private void button1_Click(object sender, EventArgs e)
         {
             //karácsony dátuma
-            DateTime d1 = new DateTime(2018, 12, 24);
+            DateTime karacsony = new DateTime(DateTime.Now.Year, 12, 24);
 
             //aktuális dátum
             DateTime aktualisido = DateTime.Now;
-            TimeSpan elteltido = d1 - aktualisido;
+            TimeSpan kulombseg = karacsony - aktualisido;
 
             //napok kiiratása
-            kiirLbl.Text = "Már csak "+ elteltido.Days.ToString() + " nap van karácsonyig.";
+            kiirLbl.Text = "Már csak "+ kulombseg.Days.ToString() + " nap van karácsonyig.";
 
         }
     }
