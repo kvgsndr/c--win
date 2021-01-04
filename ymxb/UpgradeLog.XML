@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ymxb">
+</Property><Property Name="Solution File" Value="D:\CSP\ymxb\ymxb.sln">
+</Property><Property Name="Date" Value="2011. december 15.">
+</Property><Property Name="Time" Value="14:25">
+</Property></Properties><Event ErrorLevel="0" Project="ymxb" Source="ymxb\ymxb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ymxb" Source="ymxb\ymxb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ymxb.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ymxb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ymxb" Source="ymxb\ymxb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

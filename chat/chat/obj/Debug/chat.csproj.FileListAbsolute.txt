@@ -1,0 +1,16 @@
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\bin\Debug\chat.exe
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\bin\Debug\chat.pdb
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\chat.Form1.resources
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\chat.exe
+C:\Users\bekefi\AppData\Local\Temporary Projects\chat\obj\Debug\chat.pdb
+D:\Csp\chat\chat\obj\Debug\chat.exe
+D:\Csp\chat\chat\obj\Debug\chat.pdb
+D:\Csp\chat\chat\bin\Debug\chat.exe
+D:\Csp\chat\chat\bin\Debug\chat.pdb
+D:\Csp\chat\chat\obj\Debug\ResolveAssemblyReference.cache
+D:\Csp\chat\chat\obj\Debug\chat.Form1.resources
+D:\Csp\chat\chat\obj\Debug\chat.Properties.Resources.resources
+D:\Csp\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
