@@ -1,0 +1,11 @@
+prezentál;név;halasztott
+0;Bátyai Dorina;0
+0;Berta Milán;0
+0;Cserháti Raul;0
+0;Pál Adorján;0
+0;Paszterkó Máté;0
+0;Paszterkó Milán;0
+0;Reinhardt Filip;0
+0;Rutterschmidt Balázs;0
+0;Szűcs Krisztián;0
+0;Zsöllér Tamás;0

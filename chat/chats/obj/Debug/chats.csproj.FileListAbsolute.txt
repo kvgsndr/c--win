@@ -1,8 +1,0 @@
-D:\Csp\chat\chats\obj\Debug\ResolveAssemblyReference.cache
-D:\Csp\chat\chats\obj\Debug\chats.Form1.resources
-D:\Csp\chat\chats\obj\Debug\chats.Properties.Resources.resources
-D:\Csp\chat\chats\obj\Debug\chats.csproj.GenerateResource.Cache
-D:\Csp\chat\chats\bin\Debug\chats.exe
-D:\Csp\chat\chats\bin\Debug\chats.pdb
-D:\Csp\chat\chats\obj\Debug\chats.exe
-D:\Csp\chat\chats\obj\Debug\chats.pdb

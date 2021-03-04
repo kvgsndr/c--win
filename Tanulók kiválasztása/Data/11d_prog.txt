@@ -1,0 +1,15 @@
+pro
+0;Ács Nataniel;0
+0;Aros Robin;0
+0;Bali Barnabás;0
+0;Falusi Roland;0
+0;Gaál Zsombor Szabolcs;0
+0;Gyenes Dominik;0
+0;Gyenge Gergő;0
+0;Horváth Nátán;0
+0;Kender Máté;0
+0;Kereszturi Patrik;0
+0;Keszi Zalán;0
+0;Klemm Ferenc;0
+0;Trunk Péter;0
+0;Vancsik Csaba;0

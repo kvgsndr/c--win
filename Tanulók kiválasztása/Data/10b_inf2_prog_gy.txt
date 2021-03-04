@@ -1,0 +1,18 @@
+prezentált;Név;halasztott
+1;Hodován Milán;0
+0;Mátrai Gergő;0
+1;Müller Ottó;0
+1;Nagymiklósi Mátyás;0
+1;Neagoe Martin;0
+0;Oszwald András Sándor;1
+1;Radics Ádám;0
+1;Rátkai Martin;0
+0;Rockenstein Ádám;1
+1;Schwáb Tamás;0
+0;Szabó Kevin Márk;0
+0;Tusa Máté;1
+1;Unszorg Balázs;0
+0;Varga Renáto;2
+0;Vida Károly Dávid;0
+0;Vörös Attila;0
+0;Walkowicz Szása;1

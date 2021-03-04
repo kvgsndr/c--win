@@ -1,0 +1,16 @@
+prezentál;név;halasztott
+0;Bánó Péter Mátyás;0
+0;Bárány Norbert;0
+0;Csúcs Levente;0
+0;Diczenty Áron;0
+0;Guszmann Vajk József;0
+0;Hamháber Patrik;0
+0;Hegyi Gergely;0
+0;Horváth Olivér;0
+0;Illés Sándor Dávid;0
+0;Kadosa Tibor;0
+0;Kajtácsi Dominik;0
+0;Kalászi Roland;0
+0;Kiefer Dávid Attila;0
+0;Légrádi Gábor;0
+0;Maros Dávid;0
