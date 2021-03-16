@@ -1,7 +1,7 @@
-pro
+prezentált;Név;halasztott
 0;Ács Nataniel;0
 0;Aros Robin;0
-0;Bali Barnabás;0
+1;Bali Barnabás;0
 0;Falusi Roland;0
 0;Gaál Zsombor Szabolcs;0
 0;Gyenes Dominik;0

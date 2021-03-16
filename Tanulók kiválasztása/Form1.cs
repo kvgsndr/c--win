@@ -17,14 +17,14 @@ namespace Tanulók_kiválasztása
         List<Tanulo> lista = new List<Tanulo>();
         int sorszam = 0;
         string[] file_list;
-        int maxprez = 1;
+        int minprez = 0;
 
-        private int maxPrezent()
-        { int max = lista[0].prezentalt;
+        private int minPrezent()
+        { int min = lista[0].prezentalt;
             foreach (var item in lista)
-                if (max < item.prezentalt) max = item.prezentalt;
+                if (min > item.prezentalt) min = item.prezentalt;
 
-            return max;
+            return min;
         }
 
         private void listaMent()
@@ -76,7 +76,7 @@ namespace Tanulók_kiválasztása
             {
                 sorszam = rnd.Next(lista.Count);
             } 
-            while (lista[sorszam].prezentalt > maxprez-1 );
+            while (lista[sorszam].prezentalt > minprez );
 
             string hala = lista[sorszam].halasztott >0 ? "Halasztott" : "";
             label2.Text = lista[sorszam].nev + " " + hala;
@@ -133,7 +133,7 @@ namespace Tanulók_kiválasztása
                 }
                 fbe.Close();
                 listaMent();
-                maxprez=maxPrezent();
+                minprez=minPrezent();
             }
             catch (Exception ee)
             {
