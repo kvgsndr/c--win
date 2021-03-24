@@ -1,14 +1,14 @@
 prezentált;Név;halasztott
-0;Németh Fanni;0
-0;Orosz Viola;0
-0;Rebenszki Alex;0
-0;Riczman Daniella;0
-0;Rittgasser Evelin;0
-0;Rozumberski Nóra;0
-0;Sereg Vivien;0
-0;Simonics Dzsenna Márta;0
-0;Tamás Ákos;0
-0;Ternai Cintia;0
-0;Tóth Martina;0
+1;Németh Fanni;0
+1;Orosz Viola;0
+1;Rebenszki Alex;0
+1;Riczman Daniella;0
+1;Rittgasser Evelin;0
+1;Rozumberski Nóra;0
+0;Sereg Vivien;1
+1;Simonics Dzsenna Márta;0
+1;Tamás Ákos;0
+0;Ternai Cintia;1
+1;Tóth Martina;0
 0;Várda Szilvia;0
-0;Varga Zoltán;0
+1;Varga Zoltán;0
