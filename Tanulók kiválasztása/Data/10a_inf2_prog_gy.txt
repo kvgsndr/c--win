@@ -1,12 +1,12 @@
 prezentált;Név;halasztott
 2;Müller Viktória;1
-0;Nagy Ádám;0
+1;Nagy Ádám;0
 0;Ódor József;0
 3;Pausch Dániel;0
-0;Rónay István Vajk;0
+0;Rónay István Vajk;1
 0;Rózsa Botond Benedek;1
 1;Salgó Noé;0
-0;Szabó Dominik;1
+1;Szabó Dominik;0
 0;Szabó Márió;1
 0;Sziráczki Zsolt;0
 0;Sztarovics Dániel;1

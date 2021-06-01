@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gX5hkMz5EPK1/EuIEiJfcy5C2GO+Unsqt7XaaaN/ZKWskN88G8sI8YJbde42HDfHCKcc7ShpeRsfxmWx4IBESw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\EgyszamjatekGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kovagosandor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

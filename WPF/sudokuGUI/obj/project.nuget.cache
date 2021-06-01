@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjhT4H92ya5GXwqAjgSA0rWzyUXfOsnzTojqScs53oMFJaO7/hQ5HqfKPvRVf6wAowX5rbQGeFbp019HpxWHYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\sudokuGUI\\sudokuGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kovagosandor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

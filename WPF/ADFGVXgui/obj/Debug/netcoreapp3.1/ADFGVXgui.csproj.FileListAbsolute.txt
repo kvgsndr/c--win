@@ -1,0 +1,42 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\kodtabla.txt
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_Content.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_MarkupCompile.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_MarkupCompile.lref
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.g.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\kodtabla.txt
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_Content.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_MarkupCompile.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_MarkupCompile.lref
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.g.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.genruntimeconfig.cache
