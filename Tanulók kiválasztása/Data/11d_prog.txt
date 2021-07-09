@@ -1,4 +1,4 @@
-pro
+prezentált;Név;halasztott
 0;Ács Nataniel;0
 0;Aros Robin;0
 0;Bali Barnabás;0

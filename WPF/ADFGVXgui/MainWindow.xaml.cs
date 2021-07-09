@@ -32,6 +32,7 @@ namespace ADFGVXgui
         private void btMegnyit_Click(object sender, RoutedEventArgs e)
         {
             kod.Clear();
+            lbxHibak.Items.Clear();
             OpenFileDialog ofd = new OpenFileDialog();
             if (ofd.ShowDialog() == true)
             {
@@ -61,7 +62,7 @@ namespace ADFGVXgui
                 lbKodtabla.Content += "\n";
             }
             // méret ellenörzése
-            lbxHibak.Items.Clear();
+           
 
             if (kod.Count != 6 || !kodSorHossza())
             {
@@ -69,7 +70,7 @@ namespace ADFGVXgui
                 kodTablaRossz = true;
             }
             //angol abc és számok
-            string angolABCszamok = "abcdeqwrtzuioplkjhgfsyxvnm1234567890";
+            string angolABCszamok = "abcdefghijklmnopqrstuvwxyz1234567890";
             foreach (var sor in kod)
             {
                 foreach (var karakter in sor)
@@ -99,8 +100,8 @@ namespace ADFGVXgui
                     lbxHibak.Items.Add($"Hibás karakter ({angolABCszamok[i]}x{db}) van a mátrixban!");
                     kodTablaRossz = true;
                 }
-                   
 
+               
             }
 
 
