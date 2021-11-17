@@ -1,0 +1,39 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI_MarkupCompile.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI_MarkupCompile.lref
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.g.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\bin\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.AssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI_MarkupCompile.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI_MarkupCompile.lref
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.g.resources
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\OrvosiNobeldijasokGUI\obj\Debug\netcoreapp3.1\OrvosiNobeldijasokGUI.genruntimeconfig.cache

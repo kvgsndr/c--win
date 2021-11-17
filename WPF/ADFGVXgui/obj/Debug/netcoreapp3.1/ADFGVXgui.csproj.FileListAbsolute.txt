@@ -5,7 +5,6 @@ C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnázi
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.runtimeconfig.dev.json
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.dll
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\bin\Debug\netcoreapp3.1\ADFGVXgui.pdb
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csprojAssemblyReference.cache
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui_Content.g.cs
@@ -40,3 +39,5 @@ C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.dll
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.pdb
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.csproj.AssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\ADFGVXgui\obj\Debug\netcoreapp3.1\ADFGVXgui.GeneratedMSBuildEditorConfig.editorconfig

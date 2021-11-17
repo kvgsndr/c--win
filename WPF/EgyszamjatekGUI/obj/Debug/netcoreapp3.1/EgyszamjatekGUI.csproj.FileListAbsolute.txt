@@ -4,7 +4,6 @@ C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnázi
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.runtimeconfig.dev.json
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.dll
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\bin\Debug\netcoreapp3.1\EgyszamjatekGUI.pdb
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.csprojAssemblyReference.cache
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI_MarkupCompile.cache
@@ -17,3 +16,5 @@ C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnázi
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.dll
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.pdb
 C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.csproj.AssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\EgyszamjatekGUI\obj\Debug\netcoreapp3.1\EgyszamjatekGUI.GeneratedMSBuildEditorConfig.editorconfig
