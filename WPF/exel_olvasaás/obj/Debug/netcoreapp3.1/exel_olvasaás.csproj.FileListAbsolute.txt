@@ -1,5 +1,0 @@
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\exel_olvasaás\obj\Debug\netcoreapp3.1\exel_olvasaás.csprojAssemblyReference.cache
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\exel_olvasaás\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\exel_olvasaás\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\exel_olvasaás\obj\Debug\netcoreapp3.1\exel_olvasaás_MarkupCompile.cache
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-win\WPF\exel_olvasaás\obj\Debug\netcoreapp3.1\exel_olvasaás_MarkupCompile.lref

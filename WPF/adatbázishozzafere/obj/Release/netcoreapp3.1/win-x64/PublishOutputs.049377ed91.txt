@@ -1,2 +1,0 @@
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\adatbázishozzafere\bin\publish\adatbázishozzafere.pdb
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-win\WPF\adatbázishozzafere\bin\publish\adatbázishozzafere.exe
