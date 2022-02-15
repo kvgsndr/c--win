@@ -8,26 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kovagosandor\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\kovagosandor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\EgyszamjatekGUI.csproj",
+      "projectUniqueName": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Technikum\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\EgyszamjatekGUI.csproj",
       "projectName": "EgyszamjatekGUI",
-      "projectPath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\EgyszamjatekGUI.csproj",
+      "projectPath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Technikum\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\EgyszamjatekGUI.csproj",
       "packagesPath": "C:\\Users\\kovagosandor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\obj\\",
+      "outputPath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Technikum\\Türr\\source\\repos\\csharp-win\\WPF\\EgyszamjatekGUI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\kovagosandor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -39,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -51,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -70,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

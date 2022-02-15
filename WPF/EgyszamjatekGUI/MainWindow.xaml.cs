@@ -27,7 +27,7 @@ namespace EgyszamjatekGUI
 
         private void tbTippek_TextChanged(object sender, TextChangedEventArgs e)
         {
-            var elemek = tbTippek.Text.Trim().Split(' ',StringSplitOptions.RemoveEmptyEntries);
+            string[] elemek = tbTippek.Text.Trim().Split(' ',StringSplitOptions.RemoveEmptyEntries);
             lbDarabTipp.Content = $"{elemek.Length} db";
         }
     }

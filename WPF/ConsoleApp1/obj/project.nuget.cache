@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ur67Ty6vgFs5Dd1hYMhfTnvciZ3cNe4Hmj2ZFFowAVtGELz5lrXrpUQWBOM2dsBKk+YIxvAQZuF0Ne1HCQmd9w==",
+  "dgSpecHash": "eNoL6HAuS1efezksjx8kUrZ1GxxsOOmq8/Mx1rKQw+zTVQMmhwdyvL3k906g2PgYZqEOzIUboKENQzykAhPPJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kovagosandor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\kovagosandor\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\Türr\\source\\repos\\csharp-win\\WPF\\ConsoleApp1\\halmazok.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

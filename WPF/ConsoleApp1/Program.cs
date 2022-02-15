@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 namespace halmaz_osztaly
 {
 
-    class halm
+    class THalmaz
     {
         List<int> lista = new List<int>();
 
         public List<int> Lista { get => lista; set => lista = value; }
-        public halm()
+        public THalmaz()
         {
 
 
@@ -54,7 +54,7 @@ namespace halmaz_osztaly
             }
         }
 
-        public List<int> unio(halm szamok)
+        public List<int> unio(THalmaz szamok)
         {
             var eredmeny = lista.Union(szamok.Helper());
             return eredmeny.ToList();
@@ -80,9 +80,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        halm halm1 = new halm();
+        THalmaz halm1 = new THalmaz();
 
-        halm halm2 = new halm();
+        THalmaz halm2 = new THalmaz();
 
         Random rnd = new Random();
         for (int i = 0; i < 3; i++)
