@@ -26,13 +26,7 @@ namespace dinamikus_gomb
 
         {
 
-            // Create a Button object 
-
             Button dynamicButton = new Button();
-
-
-
-            // Set Button properties
 
             dynamicButton.Height = 40;
 
@@ -51,19 +45,12 @@ namespace dinamikus_gomb
             dynamicButton.Font = new Font("Georgia", 16);
 
 
-
-            // Add a Button Click Event handler
-
             dynamicButton.Click += new EventHandler(DynamicButton_Click);
-
-            // Add Button to the Form. Placement of the Button
-            // will be based on the Location and Size of button
 
             Controls.Add(dynamicButton);
 
         }
 
-        /// Button click event handler
 
         private void DynamicButton_Click(object sender, EventArgs e)
 
